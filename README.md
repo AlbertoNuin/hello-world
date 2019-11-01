@@ -1,5 +1,4 @@
 # hello-world
-Hello Word repository to do the GitHub tutorial
 
 Reference paper: Curious Git, Matthew Brett, 2017
 - Git: love - hate
